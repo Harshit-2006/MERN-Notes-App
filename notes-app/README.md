@@ -116,7 +116,7 @@ npm run dev
 
 - Authentication
 - Rich text support
-- Note sharing
+- Note-sharing
 
 ## License
 
