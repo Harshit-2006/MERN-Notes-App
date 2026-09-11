@@ -108,7 +108,7 @@ npm run dev
 ![Notes overview](screenshots/notes-overview.jpeg)
 
 ### Note editor
-![Note editor](screenshots/note-editor.png)
+![Note editor](screenshots/note-editor.jpeg)
 
 *(Note: Add screenshot images to the `screenshots/` directory manually.)*
 
