@@ -2,6 +2,10 @@
 
 A minimal full-stack notes application built with the MERN stack.
 
+## Live Demo
+
+[Live Demo]https://mern-notes-app-rouge.vercel.app/
+
 ## Features
 
 - Create, edit and delete notes
